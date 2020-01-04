@@ -3,7 +3,7 @@ Queens attack each other when:
 1. They are in same row or column 
 2. They are in same diagonal
 
-Algorithm of the Solve(int board[N][N], int column)
+Algorithm: `Solve(int board[N][N], int column)
 
 if all queens are placed i.e `col>=N` condition is met 
 
@@ -25,6 +25,4 @@ if all rows have been tried and nothing worked
 
 	return false to trigger backtracking
 	
-	
-
-
+`
