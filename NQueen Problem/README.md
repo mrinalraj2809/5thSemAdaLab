@@ -11,7 +11,7 @@ if all queens are placed i.e `col>=N` condition is met
 	
 for ( every possible choice among the rows in this column)
 
-	make that choice and then recursively tryu to place the rest of the queen
+	make that choice and then recursively try to place the rest of the queen
 	
 	if recursion is successful
 	
