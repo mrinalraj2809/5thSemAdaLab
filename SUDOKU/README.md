@@ -45,7 +45,8 @@ Pseudo Code: SOLVE(int grid[][])
 0 0 5 2 0 6 3 0 0
 
 
-###Output:
+
+### Output:
 
 3 1 6 5 7 8 4 9 2
 
