@@ -2,8 +2,11 @@ Given a NxN unsolved Sudoku matrix find its solution using backtracking.
 
 
 Pseudo Code: SOLVE(int grid[][])
+
 //input: An NxN grid matrix 
+
 // Output: An NxN solved grid matrix
+
 
 	Find row, col of an unassigned cell
 
